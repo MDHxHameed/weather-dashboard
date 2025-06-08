@@ -1,72 +1,49 @@
 import React, { useState } from 'react';
-import SearchBar from './components/SearchBar';
-import WeatherInfo from './components/WeatherInfo';
-import MapView from './components/MapView';
-import './styles/app.css';
-
-const FAKE_WEATHER = [
-  {
-    city: 'London',
-    country: 'UK',
-    coords: { lat: 51.5074, lon: -0.1278 },
-    temp: 18,
-    humidity: 70,
-    condition: 'Rainy',
-    aqi: 3,
-  },
-  {
-    city: 'New York',
-    country: 'USA',
-    coords: { lat: 40.7128, lon: -74.006 },
-    temp: 25,
-    humidity: 50,
-    condition: 'Sunny',
-    aqi: 1,
-  },
-  {
-    city: 'Delhi',
-    country: 'India',
-    coords: { lat: 28.6139, lon: 77.209 },
-    temp: 38,
-    humidity: 40,
-    condition: 'Smog',
-    aqi: 5,
-  },
-];
+import FAKE_WEATHER from './data/fake_global_weather_data.json';
+import './styles/App.css';
 
 function App() {
-  const [weather, setWeather] = useState(null);
-  const [coords, setCoords] = useState(null);
-  const [air, setAir] = useState(null);
+  const [query, setQuery] = useState('');
+  const [selectedCity, setSelectedCity] = useState(null);
 
-  const fetchWeather = (cityName) => {
+  // Search logic
+  const handleSearch = () => {
     const result = FAKE_WEATHER.find(
-      (c) => c.city.toLowerCase() === cityName.toLowerCase()
+      (item) =>
+        item.city.toLowerCase() === query.toLowerCase() ||
+        item.country.toLowerCase() === query.toLowerCase()
     );
-    if (result) {
-      setWeather({
-        name: result.city,
-        sys: { country: result.country },
-        main: {
-          temp: result.temp,
-          humidity: result.humidity,
-        },
-        weather: [{ description: result.condition }],
-        coord: result.coords,
-      });
-      setAir({ main: { aqi: result.aqi } });
-      setCoords(result.coords);
-    } else {
-      alert('City not found in local data');
-    }
+    setSelectedCity(result || null);
   };
 
   return (
-    <div className={`app ${weather?.weather[0].description.toLowerCase()}`}>
-      <h1>🌍 Local Weather Dashboard</h1>
-      <SearchBar onSearch={fetchWeather} />
-      {weather && <WeatherInfo weather={weather} air={air} />}
-      {coords && <MapView lat={coords.lat} lon={coords.lon} />}
+    <div className="app-container">
+      <h1>🌍 Global Weather Dashboard</h1>
+
+      <div className="search-box">
+        <input
+          type="text"
+          placeholder="Enter a city or country..."
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+        />
+        <button onClick={handleSearch}>Search</button>
+      </div>
+
+      {selectedCity ? (
+        <div className="weather-info">
+          <h2>{selectedCity.city}, {selectedCity.country}</h2>
+          <p><strong>Temperature:</strong> {selectedCity.temp}°C</p>
+          <p><strong>Humidity:</strong> {selectedCity.humidity}%</p>
+          <p><strong>Condition:</strong> {selectedCity.condition}</p>
+          <p><strong>Air Quality Index:</strong> {selectedCity.aqi}</p>
+          <p><strong>Coordinates:</strong> 
+            {selectedCity.coords.lat}, {selectedCity.coords.lon}
+          </p>
+        </div>
+      ) : (
+        query && <p className="not-found">No data found for "{query}"</p>
+      )}
     </div>
   );
 }

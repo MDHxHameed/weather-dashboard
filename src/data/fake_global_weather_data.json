@@ -1,0 +1,2990 @@
+[
+  {
+    "city": "Aruba",
+    "country": "Aruba",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Afghanistan",
+    "country": "Afghanistan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Angola",
+    "country": "Angola",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Anguilla",
+    "country": "Anguilla",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "\u00c5land Islands",
+    "country": "\u00c5land Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Albania",
+    "country": "Albania",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Andorra",
+    "country": "Andorra",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Afghanistan",
+    "country": "United Arab Emirates",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Argentina",
+    "country": "Argentina",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Armenia",
+    "country": "Armenia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "American Samoa",
+    "country": "American Samoa",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Antarctica",
+    "country": "Antarctica",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "French Southern Territories",
+    "country": "French Southern Territories",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Antigua and Barbuda",
+    "country": "Antigua and Barbuda",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Australia",
+    "country": "Australia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Austria",
+    "country": "Austria",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Azerbaijan",
+    "country": "Azerbaijan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Burundi",
+    "country": "Burundi",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Belgium",
+    "country": "Belgium",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Benin",
+    "country": "Benin",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bonaire",
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Burkina Faso",
+    "country": "Burkina Faso",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bangladesh",
+    "country": "Bangladesh",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bulgaria",
+    "country": "Bulgaria",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bahrain",
+    "country": "Bahrain",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bahamas",
+    "country": "Bahamas",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bosnia and Herzegovina",
+    "country": "Bosnia and Herzegovina",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Barth\u00e9lemy",
+    "country": "Saint Barth\u00e9lemy",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Belarus",
+    "country": "Belarus",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Belize",
+    "country": "Belize",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bermuda",
+    "country": "Bermuda",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bolivia",
+    "country": "Bolivia, Plurinational State of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Brazil",
+    "country": "Brazil",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Barbados",
+    "country": "Barbados",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Brunei Darussalam",
+    "country": "Brunei Darussalam",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bhutan",
+    "country": "Bhutan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Bouvet Island",
+    "country": "Bouvet Island",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Botswana",
+    "country": "Botswana",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Central African Republic",
+    "country": "Central African Republic",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Canada",
+    "country": "Canada",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cocos (Keeling) Islands",
+    "country": "Cocos (Keeling) Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Switzerland",
+    "country": "Switzerland",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Chile",
+    "country": "Chile",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "China",
+    "country": "China",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "C\u00f4te d'Ivoire",
+    "country": "C\u00f4te d'Ivoire",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cameroon",
+    "country": "Cameroon",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Congo",
+    "country": "Congo, The Democratic Republic of the",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Congo",
+    "country": "Congo",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cook Islands",
+    "country": "Cook Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Colombia",
+    "country": "Colombia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Comoros",
+    "country": "Comoros",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cabo Verde",
+    "country": "Cabo Verde",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Costa Rica",
+    "country": "Costa Rica",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cuba",
+    "country": "Cuba",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cura\u00e7ao",
+    "country": "Cura\u00e7ao",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Christmas Island",
+    "country": "Christmas Island",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cayman Islands",
+    "country": "Cayman Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cyprus",
+    "country": "Cyprus",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Czechia",
+    "country": "Czechia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Germany",
+    "country": "Germany",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Djibouti",
+    "country": "Djibouti",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Dominica",
+    "country": "Dominica",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Denmark",
+    "country": "Denmark",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Dominican Republic",
+    "country": "Dominican Republic",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Algeria",
+    "country": "Algeria",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Ecuador",
+    "country": "Ecuador",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Egypt",
+    "country": "Egypt",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Eritrea",
+    "country": "Eritrea",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Western Sahara",
+    "country": "Western Sahara",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Spain",
+    "country": "Spain",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Estonia",
+    "country": "Estonia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Ethiopia",
+    "country": "Ethiopia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Finland",
+    "country": "Finland",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Fiji",
+    "country": "Fiji",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Falkland Islands (Malvinas)",
+    "country": "Falkland Islands (Malvinas)",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "France",
+    "country": "France",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Faroe Islands",
+    "country": "Faroe Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Micronesia",
+    "country": "Micronesia, Federated States of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Gabon",
+    "country": "Gabon",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "United Kingdom",
+    "country": "United Kingdom",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Georgia",
+    "country": "Georgia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guernsey",
+    "country": "Guernsey",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Ghana",
+    "country": "Ghana",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Gibraltar",
+    "country": "Gibraltar",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guinea",
+    "country": "Guinea",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guadeloupe",
+    "country": "Guadeloupe",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Gambia",
+    "country": "Gambia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guinea-Bissau",
+    "country": "Guinea-Bissau",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Equatorial Guinea",
+    "country": "Equatorial Guinea",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Greece",
+    "country": "Greece",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Grenada",
+    "country": "Grenada",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Greenland",
+    "country": "Greenland",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guatemala",
+    "country": "Guatemala",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "French Guiana",
+    "country": "French Guiana",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guam",
+    "country": "Guam",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Guyana",
+    "country": "Guyana",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Heard Island and McDonald Islands",
+    "country": "Heard Island and McDonald Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Honduras",
+    "country": "Honduras",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Croatia",
+    "country": "Croatia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Haiti",
+    "country": "Haiti",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Hungary",
+    "country": "Hungary",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Indonesia",
+    "country": "Indonesia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Isle of Man",
+    "country": "Isle of Man",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "India",
+    "country": "India",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "British Indian Ocean Territory",
+    "country": "British Indian Ocean Territory",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Ireland",
+    "country": "Ireland",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Iran",
+    "country": "Iran, Islamic Republic of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Iraq",
+    "country": "Iraq",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Iceland",
+    "country": "Iceland",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Israel",
+    "country": "Israel",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Italy",
+    "country": "Italy",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Jamaica",
+    "country": "Jamaica",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Jersey",
+    "country": "Jersey",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Jordan",
+    "country": "Jordan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Japan",
+    "country": "Japan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Kazakhstan",
+    "country": "Kazakhstan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Kenya",
+    "country": "Kenya",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Kyrgyzstan",
+    "country": "Kyrgyzstan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Cambodia",
+    "country": "Cambodia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Kiribati",
+    "country": "Kiribati",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Kitts and Nevis",
+    "country": "Saint Kitts and Nevis",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Korea",
+    "country": "Korea, Republic of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Kuwait",
+    "country": "Kuwait",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Lao People's Democratic Republic",
+    "country": "Lao People's Democratic Republic",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Lebanon",
+    "country": "Lebanon",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Liberia",
+    "country": "Liberia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Libya",
+    "country": "Libya",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Lucia",
+    "country": "Saint Lucia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Liechtenstein",
+    "country": "Liechtenstein",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Sri Lanka",
+    "country": "Sri Lanka",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Lesotho",
+    "country": "Lesotho",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Lithuania",
+    "country": "Lithuania",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Latvia",
+    "country": "Latvia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Macao",
+    "country": "Macao",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Martin (French part)",
+    "country": "Saint Martin (French part)",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Morocco",
+    "country": "Morocco",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Monaco",
+    "country": "Monaco",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Moldova",
+    "country": "Moldova, Republic of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Madagascar",
+    "country": "Madagascar",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Maldives",
+    "country": "Maldives",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mexico",
+    "country": "Mexico",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Marshall Islands",
+    "country": "Marshall Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "North Macedonia",
+    "country": "North Macedonia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mali",
+    "country": "Mali",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Malta",
+    "country": "Malta",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Myanmar",
+    "country": "Myanmar",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Montenegro",
+    "country": "Montenegro",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mongolia",
+    "country": "Mongolia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Northern Mariana Islands",
+    "country": "Northern Mariana Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mozambique",
+    "country": "Mozambique",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mauritania",
+    "country": "Mauritania",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Montserrat",
+    "country": "Montserrat",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Martinique",
+    "country": "Martinique",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mauritius",
+    "country": "Mauritius",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Malawi",
+    "country": "Malawi",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Malaysia",
+    "country": "Malaysia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Mayotte",
+    "country": "Mayotte",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Namibia",
+    "country": "Namibia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "New Caledonia",
+    "country": "New Caledonia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Niger",
+    "country": "Niger",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Norfolk Island",
+    "country": "Norfolk Island",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Nigeria",
+    "country": "Nigeria",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Nicaragua",
+    "country": "Nicaragua",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Niue",
+    "country": "Niue",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Netherlands",
+    "country": "Netherlands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Norway",
+    "country": "Norway",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Nepal",
+    "country": "Nepal",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Nauru",
+    "country": "Nauru",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "New Zealand",
+    "country": "New Zealand",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Oman",
+    "country": "Oman",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Pakistan",
+    "country": "Pakistan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Panama",
+    "country": "Panama",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Pitcairn",
+    "country": "Pitcairn",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Peru",
+    "country": "Peru",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Philippines",
+    "country": "Philippines",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Palau",
+    "country": "Palau",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Papua New Guinea",
+    "country": "Papua New Guinea",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Poland",
+    "country": "Poland",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Puerto Rico",
+    "country": "Puerto Rico",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Korea",
+    "country": "Korea, Democratic People's Republic of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Portugal",
+    "country": "Portugal",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Paraguay",
+    "country": "Paraguay",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Palestine",
+    "country": "Palestine, State of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "French Polynesia",
+    "country": "French Polynesia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Qatar",
+    "country": "Qatar",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "R\u00e9union",
+    "country": "R\u00e9union",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Romania",
+    "country": "Romania",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Russian Federation",
+    "country": "Russian Federation",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Rwanda",
+    "country": "Rwanda",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saudi Arabia",
+    "country": "Saudi Arabia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Sudan",
+    "country": "Sudan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Senegal",
+    "country": "Senegal",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "South Georgia and the South Sandwich Islands",
+    "country": "South Georgia and the South Sandwich Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Helena",
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Svalbard and Jan Mayen",
+    "country": "Svalbard and Jan Mayen",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Solomon Islands",
+    "country": "Solomon Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Sierra Leone",
+    "country": "Sierra Leone",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "El Salvador",
+    "country": "El Salvador",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "San Marino",
+    "country": "San Marino",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Somalia",
+    "country": "Somalia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Pierre and Miquelon",
+    "country": "Saint Pierre and Miquelon",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Serbia",
+    "country": "Serbia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "South Sudan",
+    "country": "South Sudan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Sao Tome and Principe",
+    "country": "Sao Tome and Principe",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Suriname",
+    "country": "Suriname",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Slovakia",
+    "country": "Slovakia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Slovenia",
+    "country": "Slovenia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Sweden",
+    "country": "Sweden",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Eswatini",
+    "country": "Eswatini",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Sint Maarten (Dutch part)",
+    "country": "Sint Maarten (Dutch part)",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Seychelles",
+    "country": "Seychelles",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Syrian Arab Republic",
+    "country": "Syrian Arab Republic",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Turks and Caicos Islands",
+    "country": "Turks and Caicos Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Chad",
+    "country": "Chad",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Togo",
+    "country": "Togo",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Thailand",
+    "country": "Thailand",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Tajikistan",
+    "country": "Tajikistan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Tokelau",
+    "country": "Tokelau",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Turkmenistan",
+    "country": "Turkmenistan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Timor-Leste",
+    "country": "Timor-Leste",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Tonga",
+    "country": "Tonga",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Trinidad and Tobago",
+    "country": "Trinidad and Tobago",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Tunisia",
+    "country": "Tunisia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Turkey",
+    "country": "Turkey",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Tuvalu",
+    "country": "Tuvalu",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Taiwan",
+    "country": "Taiwan, Province of China",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Tanzania",
+    "country": "Tanzania, United Republic of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Uganda",
+    "country": "Uganda",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Ukraine",
+    "country": "Ukraine",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "United States Minor Outlying Islands",
+    "country": "United States Minor Outlying Islands",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Uruguay",
+    "country": "Uruguay",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "United States",
+    "country": "United States",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Uzbekistan",
+    "country": "Uzbekistan",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Holy See (Vatican City State)",
+    "country": "Holy See (Vatican City State)",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Saint Vincent and the Grenadines",
+    "country": "Saint Vincent and the Grenadines",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Venezuela",
+    "country": "Venezuela, Bolivarian Republic of",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Virgin Islands",
+    "country": "Virgin Islands, British",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Virgin Islands",
+    "country": "Virgin Islands, U.S.",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Viet Nam",
+    "country": "Viet Nam",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Vanuatu",
+    "country": "Vanuatu",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Wallis and Futuna",
+    "country": "Wallis and Futuna",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Samoa",
+    "country": "Samoa",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Yemen",
+    "country": "Yemen",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "South Africa",
+    "country": "South Africa",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Zambia",
+    "country": "Zambia",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  },
+  {
+    "city": "Zimbabwe",
+    "country": "Zimbabwe",
+    "coords": {
+      "lat": 0,
+      "lon": 0
+    },
+    "temp": 25,
+    "humidity": 60,
+    "condition": "Sunny",
+    "aqi": 2
+  }
+]
