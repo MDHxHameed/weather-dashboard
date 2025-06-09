@@ -13,10 +13,13 @@ L.Icon.Default.mergeOptions({
 function MapView({ lat, lon }) {
   return (
     <div className="map-container">
-      <MapContainer center={[lat, lon]} zoom={10} style={{ height: '300px' }}>
-        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+      <MapContainer center={[lat, lon]} zoom={5} style={{ height: '300px', borderRadius: '12px' }}>
+        <TileLayer
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+          attribution='Tiles © Esri — Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, etc.'
+        />
         <Marker position={[lat, lon]}>
-          <Popup>You are here 🌍</Popup>
+          <Popup>You're here 🌍</Popup>
         </Marker>
       </MapContainer>
     </div>
