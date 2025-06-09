@@ -1,29 +1,30 @@
 import React, { useState } from 'react';
-import Fuse from 'fuse.js';
-import FAKE_WEATHER from './data/fake_global_weather_data.json';
+import axios from 'axios';
 import './styles/App.css';
+
+const API_KEY = '5327d7760984d7f7123517e5b7cce801'; // 🔁 Replace with your real API key
 
 function App() {
   const [query, setQuery] = useState('');
-  const [selectedCity, setSelectedCity] = useState(null);
+  const [weather, setWeather] = useState(null);
+  const [error, setError] = useState('');
 
-  const fuse = new Fuse(FAKE_WEATHER, {
-    keys: ['city', 'country'],
-    threshold: 0.3,
-  });
-
-  const handleSearch = () => {
-    const result = fuse.search(query);
-    if (result.length > 0) {
-      setSelectedCity(result[0].item);
-    } else {
-      setSelectedCity(null);
+  const fetchWeather = async () => {
+    try {
+      const res = await axios.get(
+        `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${API_KEY}&units=metric`
+      );
+      setWeather(res.data);
+      setError('');
+    } catch (err) {
+      setError('City not found or API error');
+      setWeather(null);
     }
   };
 
   return (
     <div className="app-container">
-      <h1>🌍 Global Weather Dashboard</h1>
+      <h1>🌍 Real-Time Global Weather</h1>
 
       <div className="search-box">
         <input
@@ -32,20 +33,20 @@ function App() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
-        <button onClick={handleSearch}>Search</button>
+        <button onClick={fetchWeather}>Search</button>
       </div>
 
-      {selectedCity ? (
+      {error && <p className="not-found">{error}</p>}
+
+      {weather && (
         <div className="weather-info">
-          <h2>{selectedCity.city}, {selectedCity.country}</h2>
-          <p><strong>Temperature:</strong> {selectedCity.temp}°C</p>
-          <p><strong>Humidity:</strong> {selectedCity.humidity}%</p>
-          <p><strong>Condition:</strong> {selectedCity.condition}</p>
-          <p><strong>Air Quality Index:</strong> {selectedCity.aqi}</p>
-          <p><strong>Coordinates:</strong> {selectedCity.coords.lat}, {selectedCity.coords.lon}</p>
+          <h2>{weather.name}, {weather.sys.country}</h2>
+          <p><strong>Temperature:</strong> {weather.main.temp}°C</p>
+          <p><strong>Humidity:</strong> {weather.main.humidity}%</p>
+          <p><strong>Condition:</strong> {weather.weather[0].description}</p>
+          <p><strong>Wind:</strong> {weather.wind.speed} m/s</p>
+          <p><strong>Coordinates:</strong> {weather.coord.lat}, {weather.coord.lon}</p>
         </div>
-      ) : (
-        query && <p className="not-found">No data found for "{query}"</p>
       )}
     </div>
   );
